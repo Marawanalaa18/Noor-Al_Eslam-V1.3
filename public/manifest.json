@@ -1,0 +1,26 @@
+{
+  "name": "نور - المنصة الإسلامية الشاملة",
+  "short_name": "نور",
+  "description": "موقع إسلامي متكامل يحتوي على القرآن الكريم، مواقيت الصلاة، والأذكار.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a472a",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/islamic/192/192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://picsum.photos/seed/islamic/512/512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar"
+}
